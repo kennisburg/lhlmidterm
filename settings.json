@@ -1,6 +1,6 @@
 {
-  "user": "labber",
-  "password": "labber",
+  "user": "",
+  "password" "",
   "database": "midterm",
   "client": "pg",
   "hostname": "localhost",
